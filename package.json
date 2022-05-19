@@ -1,0 +1,43 @@
+{
+  "name": "lambirou-vscode-react-pack",
+  "displayName": "React Workspace Extension Pack",
+  "description": "Visual Studio Code extension pack for Angular Workspace.",
+  "version": "1.0.0",
+  "publisher": "lambirou",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lambirou/lambirou-vscode-react-pack"
+  },
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#0F3D5F",
+    "theme": "light"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "react"
+  ],
+  "extensionPack": [
+    "ecmel.vscode-html-css",
+    "eg2.vscode-npm-script",
+    "christian-kohler.npm-intellisense",
+    "vincaslt.highlight-matching-tag",
+    "dbaeumer.vscode-eslint",
+    "ijs.emotionsnippets",
+    "pranaygp.vscode-css-peek",
+    "bierner.color-info",
+    "hookyqr.beautify",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.auto-close-tag",
+    "styled-components.vscode-styled-components",
+    "toba.vsfire",
+    "jsayol.firebase-explorer",
+    "msjsdiag.vscode-react-native",
+    "dsznajder.es7-react-js-snippets"
+  ]
+}
